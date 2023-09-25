@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Design.md",
+                "file": "Notes/Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Design.md",
+                "file": "Notes/Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Design.md",
+                "file": "Notes/Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Design.md"
+                "file": "Notes/Modules.md"
               }
             }
           }
@@ -146,18 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72d5c397b030872a",
+  "active": "5fc95afcb621b27c",
   "lastOpenFiles": [
+    "Notes/Natural Language Processing.md",
+    "Notes/Modules.md",
+    "Notes/Lists.md",
+    "Notes/Design.md",
+    "Notes/Headers.md",
+    "Notes/Strings.md",
+    "Notes/Markdown (Re)Introduction.md",
     "Notes/warmup_1.py",
     "warmup_1.py",
-    "Notes/Strings.md",
-    "Notes/Natural Language Processing.md",
     "Notes/input_and_output.py",
-    "Notes/Headers.md",
-    "Notes/Design.md",
     "Notes/chatbot.py",
     "chatbot.py",
-    "Notes/Markdown (Re)Introduction.md",
     "Design.md",
     "README.md",
     "Strings.md",
