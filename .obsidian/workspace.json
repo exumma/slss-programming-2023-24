@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Modules.md",
+                "file": "Notes/Iteration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "667c23535e456972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Iteration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Modules.md",
+                "file": "Notes/Iteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Modules.md",
+                "file": "Notes/Iteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Modules.md"
+                "file": "Notes/Iteration.md"
               }
             }
           }
@@ -146,22 +159,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc95afcb621b27c",
+  "active": "667c23535e456972",
   "lastOpenFiles": [
-    "Notes/warmup_1.py",
-    "Notes/Natural Language Processing.md",
-    "Notes/Modules.md",
-    "Notes/Lists.md",
-    "Notes/Design.md",
-    "Notes/Headers.md",
+    "Notes/loop_practice.py",
+    "Notes/Errors.md",
     "Notes/Strings.md",
+    "Notes/food_suggestion_bot.py",
+    "Notes/Iteration.md",
+    "Notes/Headers.md",
+    "Notes/Boolean.md",
+    "README.md",
+    "Notes/Design.md",
+    "Notes/Conditionals.md",
+    "Errors.md",
+    "Notes/Modules.md",
+    "Notes/Natural Language Processing.md",
+    "Notes/warmup_1.py",
+    "Notes/Lists.md",
     "Notes/Markdown (Re)Introduction.md",
     "warmup_1.py",
     "Notes/input_and_output.py",
     "Notes/chatbot.py",
     "chatbot.py",
     "Design.md",
-    "README.md",
     "Strings.md",
     "Headers.md",
     "input_and_output.py"

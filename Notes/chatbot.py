@@ -24,17 +24,24 @@ time.sleep(1.5)
 favourite_food = input("What's your favourite food? ")
 time.sleep(1.5)
 
-# Make a comment about their food but NOT BE TERRIBLY REPETITIVE
-# Create a list of possible responses 
-list_of_food_responses = [
-    f"Oh. I've never had {favourite_food} before.", 
-    "MMmmmmm. That sounds good!",
-    "I heard that that is delicious.",
-    "Cool."
-]
+# If their favourite food is sushi, reply with yum.
+if favourite_food == "sushi":
+    print("Yum! 🍣")
+    print("I think I love sushi!")
+elif favourite_food == "burgers" or favourite_food == "Burgers":
+    print("🍔")
+    print("Burgers, I hear they are delicious.")
+else:
+    # Create a list of possible responses 
+    list_of_food_responses = [
+        f"Oh. I've never had {favourite_food} before.", 
+        "MMmmmmm. That sounds good!",
+        "I heard that that is delicious.",
+        "Cool."
+    ]
 
-# Choose one of those reponses randomly
-random_food_response = random.choice(list_of_food_responses)
+    # Choose one of those reponses randomly
+    random_food_response = random.choice(list_of_food_responses)
 
 # Print out that chosen response
 print(random_food_response)
