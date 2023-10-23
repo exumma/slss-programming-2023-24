@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7e8e6608c7f1c778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Errors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Boolean.md",
+                "file": "Notes/Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Boolean.md",
+                "file": "Notes/Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Boolean.md"
+                "file": "Notes/Errors.md"
               }
             }
           }
@@ -159,8 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "667c23535e456972",
+  "active": "7e8e6608c7f1c778",
   "lastOpenFiles": [
+    "quiz_1.md",
+    "Notes/quiz_1.md",
+    "Notes/star_wars_bot.py",
     "Notes/Natural Language Processing.md",
     "Notes/Modules.md",
     "Notes/Lists.md",
