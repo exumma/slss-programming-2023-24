@@ -16,6 +16,7 @@ coco_likes = 0          # Initialize the variable to 0
 suntea_likes = 0
 chatime_likes = 0
 bubqueen_likes = 0
+other_likes = 0
 
 for _ in range(NUM_RESPONDENTS):
     # Ask the user what their favourite place is
@@ -33,6 +34,8 @@ for _ in range(NUM_RESPONDENTS):
         chatime_likes += 1
     elif fave_place == "bubble queen":
         bubqueen_likes += 1
+    else:
+        other_likes += 1
 
 # Repeat the code above 5 times
 
@@ -42,4 +45,4 @@ print(f"CoCo Likes: {coco_likes} ({coco_likes/NUM_RESPONDENTS*100}%)")
 print(f"Suntea Likes: {suntea_likes} ({suntea_likes/NUM_RESPONDENTS*100}%)")
 print(f"Chatime Likes: {chatime_likes} ({chatime_likes/NUM_RESPONDENTS*100}%)")
 print(f"Bubble Queen Likes: {bubqueen_likes} ({bubqueen_likes/NUM_RESPONDENTS*100}%)")
-
+print(f"Other Likes: {other_likes} ({other_likes/NUM_RESPONDENTS*100}%)")
