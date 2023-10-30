@@ -41,8 +41,20 @@ for _ in range(NUM_RESPONDENTS):
 
 # Print out a summary
 # Give the raw score AND the percentage
-print(f"CoCo Likes: {coco_likes} ({coco_likes/NUM_RESPONDENTS*100}%)")
-print(f"Suntea Likes: {suntea_likes} ({suntea_likes/NUM_RESPONDENTS*100}%)")
-print(f"Chatime Likes: {chatime_likes} ({chatime_likes/NUM_RESPONDENTS*100}%)")
-print(f"Bubble Queen Likes: {bubqueen_likes} ({bubqueen_likes/NUM_RESPONDENTS*100}%)")
-print(f"Other Likes: {other_likes} ({other_likes/NUM_RESPONDENTS*100}%)")
+print(f"CoCo Likes: {coco_likes}")
+print(f"Suntea Likes: {suntea_likes}")
+print(f"Chatime Likes: {chatime_likes}")
+print(f"Bubble Queen Likes: {bubqueen_likes}")
+print(f"Other Likes: {other_likes}")
+
+coco_percentage = coco_likes / 5 * 100
+suntea_percentage = suntea_likes / 5 * 100
+chatime_percentage = chatime_likes / 5 * 100
+bubqueen_percentage = bubqueen_likes / 5 * 100
+other_percentage = other_likes / 5 * 100
+
+print(f"Coco likes percentage: {round(coco_percentage, 2)}%")
+print(f"Suntea likes percentage: {round(suntea_percentage, 2)}%")
+print(f"Chatime likes percentage: {round(chatime_percentage, 2)}%")
+print(f"Bubble Queen likes percentage: {round(bubqueen_percentage, 2)}%")
+print(f"Other likes percentage: {round(other_percentage, 2)}%")
