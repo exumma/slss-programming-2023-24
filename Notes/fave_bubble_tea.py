@@ -38,8 +38,8 @@ for _ in range(NUM_RESPONDENTS):
 
 # Print out a summary
 # Give the raw score AND the percentage
-print(f"CoCo Likes: {coco_likes}: {coco_likes/NUM_RESPONDENTS*100}%")
-print(f"Suntea Likes: {suntea_likes}: {suntea_likes/NUM_RESPONDENTS*100}%")
-print(f"Chatime Likes: {chatime_likes}: {chatime_likes/NUM_RESPONDENTS*100}%")
-print(f"Bubble Queen Likes: {bubqueen_likes}: {bubqueen_likes/NUM_RESPONDENTS*100}%")
+print(f"CoCo Likes: {coco_likes} ({coco_likes/NUM_RESPONDENTS*100}%)")
+print(f"Suntea Likes: {suntea_likes} ({suntea_likes/NUM_RESPONDENTS*100}%)")
+print(f"Chatime Likes: {chatime_likes} ({chatime_likes/NUM_RESPONDENTS*100}%)")
+print(f"Bubble Queen Likes: {bubqueen_likes} ({bubqueen_likes/NUM_RESPONDENTS*100}%)")
 
