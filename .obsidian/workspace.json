@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Recommendation Systems.md",
+                "file": "Notes/Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Recommendation Systems.md",
+                "file": "Notes/Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Recommendation Systems.md",
+                "file": "Notes/Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Recommendation Systems.md"
+                "file": "Notes/Strings.md"
               }
             }
           }
@@ -161,12 +161,12 @@
   },
   "active": "587ac643065c4bc5",
   "lastOpenFiles": [
+    "Notes/Lists.md",
+    "Notes/Recommendation Systems.md",
     "Activities/sfus_best_sim_score.py",
     "Activities/simlarity_score.py",
     "data.csv",
     "Activities/data.csv",
-    "Notes/Lists.md",
-    "Notes/Recommendation Systems.md",
     "Notes/Numbers.md",
     "Activities/world_traveller.py",
     "Activities/semester_evaluator_bot.py",
@@ -174,7 +174,6 @@
     "Activities/olympic_judging.py",
     "Activities/number_practice.py",
     "Activities/star_wars_bot.py",
-    "Activities/mcdolands.py",
     "Numbers Problems Delivery.md",
     "Notes/Strings.md",
     "Notes/Type.md",
