@@ -161,6 +161,8 @@
   },
   "active": "587ac643065c4bc5",
   "lastOpenFiles": [
+    "Activities/parental_bot.py",
+    "Activities/paternal_bot.py",
     "Activities/similar_hobbies.py",
     "Notes/Lists.md",
     "Notes/Recommendation Systems.md",
@@ -173,8 +175,6 @@
     "Activities/semester_evaluator_bot.py",
     "Activities/pumpkin_drawing.py",
     "Activities/olympic_judging.py",
-    "Activities/number_practice.py",
-    "Activities/star_wars_bot.py",
     "Numbers Problems Delivery.md",
     "Notes/Strings.md",
     "Notes/Type.md",
