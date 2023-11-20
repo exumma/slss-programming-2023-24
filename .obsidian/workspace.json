@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Strings.md",
+                "file": "Notes/Iteration.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Strings.md",
+                "file": "Notes/Iteration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Strings.md",
+                "file": "Notes/Iteration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Strings.md"
+                "file": "Notes/Iteration.md"
               }
             }
           }
@@ -161,6 +161,15 @@
   },
   "active": "587ac643065c4bc5",
   "lastOpenFiles": [
+    "numbers_solutions.md",
+    "Notes/numbers_solutions.md",
+    "Notes/Headers.md",
+    "Notes/Markdown (Re)Introduction.md",
+    "Notes/Boolean.md",
+    "Notes/Numbers.md",
+    "Notes/Strings.md",
+    "data_exercise.py",
+    "data_example.csv",
     "Activities/parental_bot.py",
     "Activities/paternal_bot.py",
     "Activities/similar_hobbies.py",
@@ -170,26 +179,18 @@
     "Activities/simlarity_score.py",
     "data.csv",
     "Activities/data.csv",
-    "Notes/Numbers.md",
     "Activities/world_traveller.py",
-    "Activities/semester_evaluator_bot.py",
-    "Activities/pumpkin_drawing.py",
-    "Activities/olympic_judging.py",
     "Numbers Problems Delivery.md",
-    "Notes/Strings.md",
     "Notes/Type.md",
     "Notes/Iteration.md",
     "Quiz 1 - Template.md",
     "quiz_1.md",
     "README.md",
-    "Notes/Boolean.md",
     "Notes/Conditionals.md",
     "Notes/Errors.md",
     "Notes/quiz_1.md",
     "Notes/Natural Language Processing.md",
     "Notes/Modules.md",
-    "Notes/Markdown (Re)Introduction.md",
-    "Notes/Headers.md",
     "Notes/Design.md",
     "Errors.md",
     "Design.md",
