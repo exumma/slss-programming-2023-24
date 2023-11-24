@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54057fa1120fbc4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Iteration.md",
+                "file": "Notes/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Iteration.md",
+                "file": "Notes/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Iteration.md"
+                "file": "Notes/Functions.md"
               }
             }
           }
@@ -159,16 +171,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "587ac643065c4bc5",
+  "active": "54057fa1120fbc4e",
   "lastOpenFiles": [
-    "Activities/turtle_example.py",
+    "Numbers Problems Delivery.md",
     "numbers_solutions.md",
-    "Notes/numbers_solutions.md",
-    "Notes/Headers.md",
-    "Notes/Markdown (Re)Introduction.md",
-    "Notes/Boolean.md",
-    "Notes/Numbers.md",
     "Notes/Strings.md",
+    "Notes/Markdown (Re)Introduction.md",
+    "Notes/Modules.md",
+    "Notes/Headers.md",
+    "Notes/Type.md",
+    "Notes/Functions.md",
+    "Notes/Numbers.md",
+    "Notes/Boolean.md",
+    "Notes/Conditionals.md",
+    "Notes/Design.md",
+    "Notes/Iteration.md",
+    "Notes/Untitled",
+    "Activities/cookies.py",
+    "Activities/turtle_example.py",
+    "Notes/numbers_solutions.md",
     "data_exercise.py",
     "data_example.csv",
     "Activities/parental_bot.py",
@@ -178,21 +199,12 @@
     "Notes/Recommendation Systems.md",
     "Activities/sfus_best_sim_score.py",
     "Activities/simlarity_score.py",
-    "data.csv",
-    "Activities/data.csv",
-    "Activities/world_traveller.py",
-    "Numbers Problems Delivery.md",
-    "Notes/Type.md",
-    "Notes/Iteration.md",
     "Quiz 1 - Template.md",
     "quiz_1.md",
     "README.md",
-    "Notes/Conditionals.md",
     "Notes/Errors.md",
     "Notes/quiz_1.md",
     "Notes/Natural Language Processing.md",
-    "Notes/Modules.md",
-    "Notes/Design.md",
     "Errors.md",
     "Design.md",
     "Strings.md",
