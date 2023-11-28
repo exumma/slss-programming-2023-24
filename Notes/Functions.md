@@ -16,12 +16,12 @@ We use the term **arguments** to describe the ACTUAL data that we put into the f
 
 ```python
 def area_of_a_square(sidelength: float):
-	"""calculate and prinit the area of a square.
+	"""calculate and print the area of a square.
 	Results are in units squared.
 	
 	Params:
 	sidelength - length of one side of the square
-	""""
+	"""
 
 	area = sidelength ** 2
 

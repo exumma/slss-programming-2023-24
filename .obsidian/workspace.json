@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Functions.md",
+                "file": "Notes/Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Functions.md",
+                "file": "Notes/Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Functions.md",
+                "file": "Notes/Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Functions.md"
+                "file": "Notes/Modules.md"
               }
             }
           }
@@ -173,18 +173,23 @@
   },
   "active": "54057fa1120fbc4e",
   "lastOpenFiles": [
+    "Notes/Markdown (Re)Introduction.md",
+    "Notes/Lists.md",
+    "Notes/Headers.md",
+    "Notes/Design.md",
+    "Notes/Errors.md",
+    "Notes/Conditionals.md",
+    "Notes/Boolean.md",
+    "Notes/Natural Language Processing.md",
+    "Notes/Recommendation Systems.md",
+    "Notes/Strings.md",
+    "Notes/Functions.md",
+    "Activities/functions_practice.py",
     "Numbers Problems Delivery.md",
     "numbers_solutions.md",
-    "Notes/Strings.md",
-    "Notes/Markdown (Re)Introduction.md",
     "Notes/Modules.md",
-    "Notes/Headers.md",
     "Notes/Type.md",
-    "Notes/Functions.md",
     "Notes/Numbers.md",
-    "Notes/Boolean.md",
-    "Notes/Conditionals.md",
-    "Notes/Design.md",
     "Notes/Iteration.md",
     "Notes/Untitled",
     "Activities/cookies.py",
@@ -195,19 +200,13 @@
     "Activities/parental_bot.py",
     "Activities/paternal_bot.py",
     "Activities/similar_hobbies.py",
-    "Notes/Lists.md",
-    "Notes/Recommendation Systems.md",
     "Activities/sfus_best_sim_score.py",
-    "Activities/simlarity_score.py",
     "Quiz 1 - Template.md",
     "quiz_1.md",
     "README.md",
-    "Notes/Errors.md",
     "Notes/quiz_1.md",
-    "Notes/Natural Language Processing.md",
     "Errors.md",
     "Design.md",
-    "Strings.md",
-    "Headers.md"
+    "Strings.md"
   ]
 }
