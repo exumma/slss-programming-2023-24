@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Modules.md",
+                "file": "Notes/Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Modules.md",
+                "file": "Notes/Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Modules.md",
+                "file": "Notes/Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Modules.md"
+                "file": "Notes/Functions.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "54057fa1120fbc4e",
   "lastOpenFiles": [
+    "Notes/Modules.md",
+    "Activities/functions_turtle.py",
     "Notes/Markdown (Re)Introduction.md",
     "Notes/Lists.md",
     "Notes/Headers.md",
@@ -187,7 +189,6 @@
     "Activities/functions_practice.py",
     "Numbers Problems Delivery.md",
     "numbers_solutions.md",
-    "Notes/Modules.md",
     "Notes/Type.md",
     "Notes/Numbers.md",
     "Notes/Iteration.md",
@@ -200,7 +201,6 @@
     "Activities/parental_bot.py",
     "Activities/paternal_bot.py",
     "Activities/similar_hobbies.py",
-    "Activities/sfus_best_sim_score.py",
     "Quiz 1 - Template.md",
     "quiz_1.md",
     "README.md",
