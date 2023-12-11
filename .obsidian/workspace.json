@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Functions.md",
+                "file": "Notes/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Functions.md",
+                "file": "Notes/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Functions.md",
+                "file": "Notes/Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Functions.md"
+                "file": "Notes/Lists.md"
               }
             }
           }
@@ -173,6 +173,10 @@
   },
   "active": "54057fa1120fbc4e",
   "lastOpenFiles": [
+    "Images/kid-green.jpg",
+    "Images",
+    "kid-green.jpg",
+    "Notes/Functions.md",
     "Activities/functions_recursion.py",
     "Notes/Modules.md",
     "Activities/functions_turtle.py",
@@ -186,7 +190,6 @@
     "Notes/Natural Language Processing.md",
     "Notes/Recommendation Systems.md",
     "Notes/Strings.md",
-    "Notes/Functions.md",
     "Activities/functions_practice.py",
     "Numbers Problems Delivery.md",
     "numbers_solutions.md",
@@ -200,8 +203,6 @@
     "data_exercise.py",
     "data_example.csv",
     "Activities/parental_bot.py",
-    "Activities/paternal_bot.py",
-    "Activities/similar_hobbies.py",
     "Quiz 1 - Template.md",
     "quiz_1.md",
     "README.md",
