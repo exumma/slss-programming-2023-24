@@ -11,3 +11,6 @@ with Image.open("./Images/kid-green.jpg") as im:
 
     # print the pixel information
     print(pixel)
+
+    # get the middle pixel 
+    middle = im.width
