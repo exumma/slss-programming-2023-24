@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Lists.md",
+                "file": "Notes/Type.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Lists.md",
+                "file": "Notes/Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Lists.md",
+                "file": "Notes/Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Lists.md"
+                "file": "Notes/Type.md"
               }
             }
           }
@@ -173,6 +173,20 @@
   },
   "active": "54057fa1120fbc4e",
   "lastOpenFiles": [
+    "Notes/Strings.md",
+    "Notes/Recommendation Systems.md",
+    "Notes/Numbers.md",
+    "Notes/Natural Language Processing.md",
+    "Notes/Modules.md",
+    "Notes/Markdown (Re)Introduction.md",
+    "Notes/Lists.md",
+    "Notes/Conditionals.md",
+    "Notes/Design.md",
+    "Notes/Errors.md",
+    "Notes/Functions.md",
+    "Notes/Headers.md",
+    "Notes/Iteration.md",
+    "Notes/Boolean.md",
     "Images/output.jpg",
     "Images/__pycache__/colour_helper.cpython-311.pyc",
     "Images/__pycache__",
@@ -182,26 +196,12 @@
     "Images/kid-green.jpg",
     "Images",
     "kid-green.jpg",
-    "Notes/Functions.md",
     "Activities/functions_recursion.py",
-    "Notes/Modules.md",
     "Activities/functions_turtle.py",
-    "Notes/Markdown (Re)Introduction.md",
-    "Notes/Lists.md",
-    "Notes/Headers.md",
-    "Notes/Design.md",
-    "Notes/Errors.md",
-    "Notes/Conditionals.md",
-    "Notes/Boolean.md",
-    "Notes/Natural Language Processing.md",
-    "Notes/Recommendation Systems.md",
-    "Notes/Strings.md",
     "Activities/functions_practice.py",
     "Numbers Problems Delivery.md",
     "numbers_solutions.md",
     "Notes/Type.md",
-    "Notes/Numbers.md",
-    "Notes/Iteration.md",
     "Notes/Untitled",
     "Activities/cookies.py",
     "Notes/numbers_solutions.md",
