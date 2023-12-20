@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Type.md",
+                "file": "Notes/Lists.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Type.md",
+                "file": "Notes/Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Type.md",
+                "file": "Notes/Lists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Type.md"
+                "file": "Notes/Lists.md"
               }
             }
           }
@@ -173,20 +173,23 @@
   },
   "active": "54057fa1120fbc4e",
   "lastOpenFiles": [
+    "Notes/Markdown (Re)Introduction.md",
+    "Notes/Natural Language Processing.md",
+    "Notes/Type.md",
+    "Notes/Functions.md",
+    "Notes/Errors.md",
+    "Notes/Design.md",
+    "Notes/Boolean.md",
+    "Notes/Conditionals.md",
+    "Images/result.jpg",
+    "Images/best_pizza.jpg",
     "Notes/Strings.md",
     "Notes/Recommendation Systems.md",
     "Notes/Numbers.md",
-    "Notes/Natural Language Processing.md",
     "Notes/Modules.md",
-    "Notes/Markdown (Re)Introduction.md",
     "Notes/Lists.md",
-    "Notes/Conditionals.md",
-    "Notes/Design.md",
-    "Notes/Errors.md",
-    "Notes/Functions.md",
     "Notes/Headers.md",
     "Notes/Iteration.md",
-    "Notes/Boolean.md",
     "Images/output.jpg",
     "Images/__pycache__/colour_helper.cpython-311.pyc",
     "Images/__pycache__",
@@ -201,7 +204,6 @@
     "Activities/functions_practice.py",
     "Numbers Problems Delivery.md",
     "numbers_solutions.md",
-    "Notes/Type.md",
     "Notes/Untitled",
     "Activities/cookies.py",
     "Notes/numbers_solutions.md",

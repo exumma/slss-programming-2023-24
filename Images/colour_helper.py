@@ -32,7 +32,7 @@ def is_light(pixel: tuple) -> bool:
 
     r, g, b = pixel
 
-    if (r + g + b)/3 >= 128:
+    if sum(pixel)/len(pixel) >= 128:
         return True
     else:
         return False
@@ -46,3 +46,27 @@ print(is_light(black_pixel))            # False
 print(is_light(dark_gray_pixel))        # False
 print(is_light(light_gray_pixel))       # True
 print(is_light(white_pixel))            # True
+
+from PIL import Image
+
+with Image.open("./Images/best_pizza.jpg") as im:
+
+    # store the height and width of the image
+    image_height = im.height
+    image_width = im.width
+
+    white_pixel = (255, 255, 255)
+    black_pixel = (0, 0, 0)
+
+    for y in range(image_height):
+        for x in range(image_width):
+            pixel = im.getpixel((x, y))
+            # check pixel if it's white
+            if is_light(pixel) == True:
+                # replace it with a white pixel 
+                im.putpixel((x, y), white_pixel)
+            else:
+                im.putpixel((x, y), black_pixel)
+
+    # save the image
+    im.save("./Images/result.jpg")
