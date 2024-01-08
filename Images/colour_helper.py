@@ -70,3 +70,24 @@ with Image.open("./Images/best_pizza.jpg") as im:
 
     # save the image
     im.save("./Images/result.jpg")
+
+def pixel_to_grayscale(pixel: tuple) -> tuple:
+    """Returns a grayscale version of the given pixel"""
+
+    gray = int(pixel[0] * 0.3 + pixel[1] * 0.59 + pixel[2] * 0.11)
+ 
+    return (gray, gray, gray)
+
+def iamge_to_grayscale(filename: str) -> None:
+    """Convert an image to grayscale"""
+
+    with Image.open(f"./Images/{filename}") as im:
+        for y in range(image_height):
+            for x in range(image_width):
+                pixel = im.getpixel((x, y))
+                # check pixel if it's white
+                if is_light(pixel) == True:
+                    # replace it with a white pixel 
+                    im.putpixel((x, y), white_pixel)
+                else:
+                    im.putpixel((x, y), black_pixel)
