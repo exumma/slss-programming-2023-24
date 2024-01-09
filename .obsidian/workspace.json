@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f9d251af32b330e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,8 +181,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54057fa1120fbc4e",
+  "active": "6f9d251af32b330e",
   "lastOpenFiles": [
+    "Activities/winter_holidays.py",
     "Notes/Markdown (Re)Introduction.md",
     "Notes/Natural Language Processing.md",
     "Notes/Type.md",
