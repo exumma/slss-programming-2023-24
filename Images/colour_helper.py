@@ -19,6 +19,13 @@ def pixel_to_string(pixel: tuple) -> list:
     if g > 99 and r < 120 and b < 120:
         return "green"
     
+    # Implement detecting the colour red
+    # Red > 150, green < 25, blue < 25
+    if g < 25 and b < 25 and r > 150:
+        return "red"
+    
+print(pixel_to_string((160, 0, 4))) #red
+
 def is_light(pixel: tuple) -> bool:
     """Take a rgb 3-tuple and "interpret" it as a colour
     
