@@ -16,13 +16,12 @@ def pixel_to_string(pixel: tuple) -> list:
     """
     r, g, b = pixel
 
-    if g > 99 and r < 120 and b < 120:
+    if g > 95 and r < 120 and b < 120:
         return "green"
-    
-    # Implement detecting the colour red
-    # Red > 150, green < 25, blue < 25
     if g < 25 and b < 25 and r > 150:
         return "red"
+    if g <= 95 and b >= 95 and r <= 95:
+        return "blue"
     
 print(pixel_to_string((160, 0, 4))) #red
 

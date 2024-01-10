@@ -47,9 +47,11 @@
             "id": "6f9d251af32b330e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Notes/Lists.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -183,6 +185,9 @@
   },
   "active": "6f9d251af32b330e",
   "lastOpenFiles": [
+    "Images/pixel_map.jpg",
+    "Images/blue_pixel_map.jpg",
+    "Images/green_pixel_map.jpg",
     "red_pixel_map.jpg",
     "Images/bean_counter.py",
     "Images/Jelly Beans.jpg",
