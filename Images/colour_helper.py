@@ -49,10 +49,10 @@ dark_gray_pixel = (127, 127, 127)
 light_gray_pixel = (128, 128, 128)
 white_pixel = (255, 255, 255)
 
-print(is_light(black_pixel))            # False
-print(is_light(dark_gray_pixel))        # False
-print(is_light(light_gray_pixel))       # True
-print(is_light(white_pixel))            # True
+(is_light(black_pixel))            # False
+(is_light(dark_gray_pixel))        # False
+(is_light(light_gray_pixel))       # True
+(is_light(white_pixel))            # True
 
 from PIL import Image
 

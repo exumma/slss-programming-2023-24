@@ -10,6 +10,8 @@ from PIL import Image
 
 import colour_helper
 
+RED_PIXEL = (150, 0, 0)
+
 jelly_bean_img = Image.open("./Images/Jelly Beans.jpg")
 
 red_pixels = []
@@ -24,5 +26,19 @@ for y in range(jelly_bean_img.height):
 
 # Count every pixel in the list
 # Divide that number by the total pixels in the image
-red_percentage = len(red_pixels) / (jelly_bean_img.width * jelly_bean_img.height)
-print(red_percentage)
+red_percentage = len(red_pixels) / (jelly_bean_img.width * jelly_bean_img.height) * 100
+
+# Create a map of all red pixels
+# Create a new image that is the same size as the original
+original_size = (jelly_bean_img.width, jelly_bean_img.height)
+red_pixel_map = Image.new("RGB", original_size)
+
+for pixel_loc in red_pixels:
+    red_pixel_map.putpixel(pixel_loc, RED_PIXEL)
+
+red_pixel_map.save("red_pixel_map.jpg")
+
+red_pixel_map.close()
+jelly_bean_img.close()
+
+print(f"Red Jelly Beans: {round(red_percentage, 2)}%")
