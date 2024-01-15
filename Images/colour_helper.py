@@ -20,6 +20,8 @@ def pixel_to_string(pixel: tuple) -> list:
         return "green"
     if g < 25 and b < 25 and r > 150:
         return "red"
+    if g < 100 and b < 100 and r > 155:
+        return "ball red"
     if g <= 95 and b >= 95 and r <= 95:
         return "blue"
     
