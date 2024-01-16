@@ -185,6 +185,10 @@
   },
   "active": "6f9d251af32b330e",
   "lastOpenFiles": [
+    "Activities/spotify_analyzer.py",
+    "Activities/spotify_analyzer,py",
+    "spotify.csv",
+    "Notes/Markdown (Re)Introduction.md",
     "Notes/Numbers.md",
     "Notes/Boolean.md",
     "Notes/Strings.md",
@@ -218,8 +222,6 @@
     "Images/colour_helper.py",
     "Images/images_examples.py",
     "Images",
-    "Activities/functions_recursion.py",
-    "Activities/functions_turtle.py",
     "Numbers Problems Delivery.md",
     "numbers_solutions.md",
     "Notes/numbers_solutions.md",
@@ -228,7 +230,6 @@
     "README.md",
     "Notes/quiz_1.md",
     "Errors.md",
-    "Design.md",
-    "Strings.md"
+    "Design.md"
   ]
 }
