@@ -8,7 +8,7 @@ import csv
 # Finds all songs from a given artist
 
 def find_all_songs(artist: str) -> list:
-    """Searches through a set of data and returnsall songs found from a given artist
+    """Searches through a set of data and returns all songs found from a given artist
     
     Returns:
         list of found songs, an empty list if none and are found
@@ -47,6 +47,7 @@ def find_all_songs(artist: str) -> list:
                     songs.append((
                         line['artist'],
                         line ['song_title'],
+                        line ['valence'],
                         line['danceability']
                     ))
                 line_num += 1
