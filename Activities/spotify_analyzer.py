@@ -59,6 +59,32 @@ ed_sheeran_songs = find_all_songs("ed sheeran")
 kendrick_lamar_songs = find_all_songs("kendrick lamar")
 
 # Print only the drake songs that have a danceability of .5 or higher
-for song in kendrick_lamar_songs:
-    if float (song[-1]) >= 0.5:
-        print(song)
+# for song in kendrick_lamar_songs:
+    # if float (song[-1]) >= 0.5:
+        # print(song)
+
+# --- Sort using SELECYION sort from smallest to biggest
+#     - Danceability
+        
+# Starting at the beginning of the list until the end
+for i, song in enumerate(drake_songs):
+    # Set the current item to the smallest danceability
+    smallest_danceability = song[-1]
+    smallest_idx = i
+        
+    # For the rest of the list
+    for j in range(i + 1,len(drake_songs)):
+        # If the current item is smaller than smallest
+        if drake_songs[j][-1] > smallest_danceability:
+            # Set the smallest danceability to the current
+            smallest_danceability = drake_songs [j][-1]
+            smallest_idx = j
+        
+    # Swap the smallest danceablity with the current item
+    drake_songs[i], drake_songs[smallest_idx] = (
+        drake_songs[smallest_idx],
+        drake_songs[i]
+    )
+
+for song in drake_songs:
+    print(song)
